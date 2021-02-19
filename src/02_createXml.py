@@ -46,7 +46,7 @@ for i in range(len(canvases)):
 
     graphic  = soup.new_tag('graphic')
     graphic["url"] = canvas["images"][0]["resource"]["@id"]
-    surface.append(graphic)
+    # surface.append(graphic)
 
     images[surface["xml:id"]] = graphic["url"]
 

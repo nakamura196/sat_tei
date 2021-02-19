@@ -1,6 +1,9 @@
 <template>
   <div>
     <div>
+      <v-navigation-drawer v-model="drawer" app :width="256">
+        <Menu :id="$route.query.id" :items="items"></Menu>
+      </v-navigation-drawer>
       <v-navigation-drawer
         v-model="drawer2"
         app
@@ -12,6 +15,9 @@
       </v-navigation-drawer>
 
       <v-app-bar color="primary" dark flat>
+        <v-btn icon @click="drawer = !drawer"
+          ><v-icon>mdi-view-list</v-icon></v-btn
+        >
         <v-toolbar-title>
           <Title></Title>
         </v-toolbar-title>
@@ -58,7 +64,7 @@
         <p class="mt-5">TEI/XMLファイルを選択してください。</p>
         <input type="file" @change="onFileChange" />
 
-        <div v-for="(item, key) in items" :key="key">
+        <div v-for="(item, key) in examples" :key="key">
           <h3 class="mt-10 mb-2">
             {{ $t('例') }} {{ key + 1 }}：{{ item.label }}
           </h3>
@@ -126,7 +132,9 @@
 <script>
 import CETEI from 'CETEIcean'
 import $ from 'jquery'
+import VueScrollTo from 'vue-scrollto'
 import Metadata from '~/components/Metadata3.vue'
+import Menu from '~/components/Menu3.vue'
 import Title from '~/components/Title.vue'
 import aaa from '~/components/aaa2.vue'
 
@@ -134,6 +142,7 @@ const convert = require('xml-js')
 
 export default {
   components: {
+    Menu,
     Metadata,
     Title,
     aaa,
@@ -150,7 +159,7 @@ export default {
       width: window.innerWidth,
       height: window.innerHeight,
 
-      // drawer: false,
+      drawer: false,
       drawer2: false,
 
       // pos: 1,
@@ -165,6 +174,8 @@ export default {
       element: {},
 
       vertical: true,
+
+      items: [],
     }
   },
   head() {
@@ -175,7 +186,7 @@ export default {
     }
   },
   computed: {
-    items: {
+    examples: {
       get() {
         console.log(this.baseUrl + '/data/sat.xml')
         return [
@@ -233,6 +244,31 @@ export default {
     },
   },
 
+  watch: {
+    id(val) {
+      console.log({ val })
+      if (!val) {
+        return
+      }
+
+      this.$router.push(
+        this.localePath({
+          name: 'index',
+          query: {
+            u: this.$route.query.u,
+            id: val,
+          },
+        }),
+        () => {},
+        () => {}
+      )
+
+      this.id = val
+      this.canvas = this.facs[val]
+      this.scroll(val)
+    },
+  },
+
   mounted() {
     window.addEventListener('resize', this.handleResize)
 
@@ -246,8 +282,6 @@ export default {
 
     const url = query.u || this.baseUrl + '/data/sat.xml'
     const CETEIcean = new CETEI()
-
-    // const id = this.$route.query.id
 
     const self = this
     CETEIcean.getHTML5(url, function (data) {
@@ -281,11 +315,30 @@ export default {
       this.canvas = canvas
 
       this.facs = facs
+
       // マニフェスト
       const manifest = $(data).find('tei-facsimile').attr('source')
       this.manifest = manifest
 
+      // fabs
+
+      const items = []
+      const pbs = $(data).find('tei-pb')
+      for (let i = 0; i < pbs.length; i++) {
+        const pb = pbs[i]
+        const label = $(pb).attr('corresp').replace('#', '')
+        items.push({
+          label,
+          id: label,
+        })
+      }
+
+      this.items = items
+
       this.loading = false
+
+      // scroll
+      // スクロールがうまくできない
 
       console.log('processed.')
     },
@@ -311,17 +364,18 @@ export default {
       this.height = window.innerHeight
     },
 
-    bbb(data) {
-      if (!data) {
-        return {}
-      }
-      const dfStr = convert.xml2json(data.outerHTML, {
-        compact: false,
-        spaces: 4,
-      })
-      const df = JSON.parse(dfStr)
+    scroll(id) {
+      const point = document.querySelector('#' + id).getBoundingClientRect()
+      const point2 = document
+        .querySelector('#container')
+        .getBoundingClientRect()
 
-      return df.elements[0]
+      const options = {
+        container: '#container',
+        offset: -1 * point2.width + point.width,
+        x: true,
+      }
+      VueScrollTo.scrollTo('#' + id, 500, options)
     },
   },
 }

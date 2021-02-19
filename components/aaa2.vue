@@ -74,6 +74,7 @@
         "
       >
         <v-icon
+          :id="element.attributes.corresp.replace('#', '')"
           class="ma-1"
           color="purple"
           @click="canvas = facs[element.attributes.corresp.replace('#', '')]"
@@ -218,7 +219,19 @@ tei-milestone {
   display: inline;
 }
 
+tei-anchor {
+  display: none;
+}
+
+tei-app {
+  display: inline-block;
+}
+
 .rend-right {
   text-align: right;
+}
+
+span {
+  display: inline-block;
 }
 </style>
