@@ -6,7 +6,7 @@ import requests
 import json
 
 # スクレイピング対象のhtmlファイルからsoupを作成
-soup = bs4.BeautifulSoup(open('../docs/tei/mktei_1916.xml'), 'xml')
+soup = bs4.BeautifulSoup(open('../static/tei/mktei_1916.xml'), 'xml')
 
 path = "data/1579id_中村更新版.xlsx"
 
@@ -94,6 +94,9 @@ for i in range(1, r_count):
         new_tag = soup.new_tag('pb')
         new_tag["corresp"] = "#p{}".format(canvas_id )
         new_tag["facs"] = images["p{}".format(canvas_id )]
+        body.append(new_tag)
+
+        new_tag = soup.new_tag('lb')
         body.append(new_tag)
 
         prev_canvas_id = canvas_id

@@ -23,7 +23,26 @@
       <span :style="`margin-top: ${getMargin(element)}em`"></span>
     </template>
     <template v-else-if="element.type == 'text'">
-      {{ element.text }}
+      {{ element.text.split('。').join('') }}
+    </template>
+    <template
+      v-else-if="element.name == 'tei-seg' && element.attributes.type == 'wari'"
+    >
+      <span style="color: #ff5722; font-size: small"
+        >[<aaa
+          v-for="(e, index) in element.elements"
+          :key="index"
+          :element="e"
+        ></aaa
+        >]</span
+      >
+    </template>
+    <template
+      v-else-if="
+        element.name == 'tei-milestone' && element.attributes.unit == 'wlb'
+      "
+    >
+      ／
     </template>
     <template v-else-if="element.name == 'tei-choice'">
       <v-tooltip right>
@@ -192,7 +211,11 @@ tei-emph {
 tei-title {
   font-weight: bold;
   font-size: large;
-  color: green;
+  color: #4caf50;
+}
+
+tei-milestone {
+  display: inline;
 }
 
 .rend-right {
