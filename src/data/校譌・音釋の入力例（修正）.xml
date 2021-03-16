@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!--  test for github; this part should be changed i hope... -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> 釋禪波羅蜜次第法門 </title>
+                <editor> SAT大蔵経テキストデータベース研究会 </editor>
+                <respStmt>
+                    <resp> Conversion from a traditional format to TEI P5 </resp>
+                    <persName> Kiyonori Nagasaki </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName ref="http://21dzk.l.u-tokyo.ac.jp/SAT/"> SAT大蔵経テキストデータベース研究会 </orgName>
+                </publisher>
+                <pubPlace> The Internet </pubPlace>
+                <availability>
+                    <p> CC BY-SA </p>
+                </availability>
+                <date when="2017"> 2017 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> 釋禪波羅蜜次第法門 </title>
+                    <author sameAs="#智顗"> 智顗 </author>
+                    <series> 大正新脩大藏經 </series>
+                    <date> 1924 </date>
+                    <biblScope> 諸宗部 </biblScope>
+                </bibl>
+                <listWit>
+                    <witness xml:id="大正"> 大正蔵 </witness>
+                    <witness xml:id="原"> 原本巻末注 </witness>
+                    <witness xml:id="酉"> 酉蓮社 </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <lb n="177-03,1579,005,019,19"/> 校訛 <lb n="177-03,1579,005,019,20"/> 第三紙 <seg
+                    type="wari"> 八行 <app>
+                        <lem> 由北 <milestone unit="wlb"/> 藏作猶 </lem>
+                        <rdg> 原本卷末註曰由北藏作猶 </rdg>
+                    </app>
+                </seg> 第四紙 <seg type="wari"> 十三行 <app>
+                        <lem> 沈 <milestone unit="wlb"/> 北藏作況 </lem>
+                        <rdg> 原本卷末註曰沈北藏作況 </rdg>
+                    </app>
+                </seg> 第五紙 <seg type="wari"> 二十 <milestone unit="wlb"/> 行 <app>
+                        <lem> 如 <lb n="177-03,1579,005,020,01"/> 北藏 <milestone unit="wlb"/> 作是 </lem>
+                        <rdg> 原本卷末註曰如北藏作是 </rdg>
+                    </app>
+                </seg>
+                <lb n="177-03,1579,005,020,02"/> 音釋 <lb n="177-03,1579,005,020,03"/> 肋 <seg
+                    type="wari"> 歴徳切 <milestone unit="wlb"/> 脅幹也 </seg> 跳躑 <seg type="wari"> 跳他弔切
+                        <milestone unit="wlb"/> 躑直隻切 </seg> 漬 <seg type="wari"> 疾智切 <milestone
+                        unit="wlb"/> 浸也 </seg> 慳 <seg type="wari"> 丘閑切 <milestone unit="wlb"/> 悋也
+                </seg> 恡 <lb n="177-03,1579,005,020,04"/>
+                <seg type="wari"> 良刃切 <milestone unit="wlb"/> 鄙恡也 </seg> 穀 <seg type="wari"> 胡谷切
+                        <milestone unit="wlb"/> 縐紗也 </seg> 胮脹 <seg type="wari"> 胮匹絳切 <milestone
+                        unit="wlb"/> 脹知亮切 </seg> 瘀 <seg type="wari"> 依據切氣 <milestone unit="wlb"/>
+                    血壅也 </seg>
+            </p>
+        </body>
+    </text>
+</TEI>

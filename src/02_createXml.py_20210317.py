@@ -8,21 +8,18 @@ import json
 # スクレイピング対象のhtmlファイルからsoupを作成
 soup = bs4.BeautifulSoup(open('../static/tei/mktei_1916.xml'), 'xml')
 
-path = "data/1579id.xlsx"
+path = "data/1579id_中村更新版.xlsx"
 
-df = pd.read_excel(path, sheet_name="Sheet2", header=None, index_col=None, engine='openpyxl')
+df = pd.read_excel(path, sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
 r_count = len(df.index)
 c_count = len(df.columns)
 
-body2 = soup.find("body")
-body2.clear()
+body = soup.find("body")
+body.clear()
 
 back = soup.find("back")
 back.decompose()
-
-body = soup.new_tag('p')
-body2.append(body)
 
 listWit = soup.find("listWit")
 new_tag = soup.new_tag('witness')
@@ -59,8 +56,8 @@ count = 1
 
 for i in range(1, r_count):
 
-    id = df.iloc[i, 7].split("\"")[1]
-    text = df.iloc[i, 9]
+    id = df.iloc[i, 7].split(":")[1]
+    text = df.iloc[i, 8]
 
     ##### id
 
@@ -104,21 +101,26 @@ for i in range(1, r_count):
 
         prev_canvas_id = canvas_id
 
+    
+
     es = re.findall("\[.+?\]", text) # ['def']
 
     for e in es:
         sat_id = "T1916_,46,"+e[1: len(e) - 1]
-        text = text.replace(e, "<anchor corresp='{}'/>".format(sat_id))
+        text = text.replace(e, "<anchor xml:id='{}'/>".format(sat_id))
 
     text = text.replace("“", "\"").replace("”", "\"")
 
     text = text.replace("<lem", "<lem wit=\"#酉\"")
     text = text.replace("<rdg", "<rdg wit=\"#大正\"")
 
-    text = "<aaa>{}".format(text)+"</aaa>"
+    text = "<seg>{}".format(text)+"</seg>"
 
     tag = bs4.BeautifulSoup(text, features="xml")
-    body.append(tag.aaa)
+    body.append(tag.seg)
+
+    if i > 1000:
+        break
 
 f = open("../static/data/sat.xml", "w")
 f.write(soup.prettify())
