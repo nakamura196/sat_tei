@@ -124,12 +124,12 @@
     <anchor corresp="T1916_,46,0475c11"/> 弟子灌頂再治 <lb n="177-03,1579,002,003,15"/>
     <seg type="wari">
      <anchor corresp="T1916_,46,0475c12"/> 天台山修禪寺顗禪師。於都講説禪法。大莊嚴寺 <milestone unit="wlb"/> 沙 <anchor
-      corresp="T1916_,46,0475c13"/> 門法愼記。預聽學輒依説採記。法門深廣難可 </seg>
-    <lb n="177-03,1579,002,003,16"/> 委 <anchor corresp="T1916_,46,0475c14"/> 悉。若取具足。有三十卷。今略出前卷要用。流通
-     <milestone unit="wlb"/> 此 <anchor corresp="T1916_,46,0475c15"/> 本。於天台更得治改前諸同學所寫之者。爾時 <lb
-     n="177-03,1579,002,003,17"/> 既未好 <anchor corresp="T1916_,46,0475c16"/> 成就。猶應闕略。或繁而不次。若見此本更
-     <milestone unit="wlb"/> 改定之。庶 <anchor corresp="T1916_,46,0475c17"/> 於學者得免謬失矣 <lb
-     n="177-03,1579,002,003,18"/>
+      corresp="T1916_,46,0475c13"/> 門法愼記。預聽學輒依説採記。法門深廣難可 <lb n="177-03,1579,002,003,16"/> 委 <anchor
+      corresp="T1916_,46,0475c14"/> 悉。若取具足。有三十卷。今略出前卷要用。流通 <milestone unit="wlb"/> 此 <anchor
+      corresp="T1916_,46,0475c15"/> 本。於天台更得治改前諸同學所寫之者。爾時 <lb n="177-03,1579,002,003,17"/> 既未好
+      <anchor corresp="T1916_,46,0475c16"/> 成就。猶應闕略。或繁而不次。若見此本更 <milestone unit="wlb"/> 改定之。庶
+      <anchor corresp="T1916_,46,0475c17"/> 於學者得免謬失矣 </seg>
+    <lb n="177-03,1579,002,003,18"/>
     <anchor corresp="T1916_,46,0475c18"/> 釋禪波羅蜜次第法門。大開爲十意不同。所 <anchor corresp="T1916_,46,0475c19"/>
     言十意 <lb n="177-03,1579,002,003,19"/> 者。修禪波羅蜜大意第一。釋禪波羅 <anchor corresp="T1916_,46,0475c20"/>
     蜜名第二。明禪 <lb n="177-03,1579,002,003,20"/> 波羅蜜門第三。辨禪波羅蜜 <anchor corresp="T1916_,46,0475c21"/>
@@ -163,9 +163,9 @@
      <anchor corresp="T1916_,46,0476a17"/> 佛法。乃至坐道場。成一切 <lb n="177-03,1579,002,005,03"/> 種智。起轉法輪。是
      <anchor corresp="T1916_,46,0476a18"/> 名菩薩次第行次第學。次第道 <lb n="177-03,1579,002,005,04"/>
     <anchor corresp="T1916_,46,0476a19"/> 修禪波羅蜜大意第一 <seg type="wari"> 從此盡今一卷。大段有五。並 <milestone
-      unit="wlb"/> 是商略禪波羅蜜。攝一 <anchor corresp="T1916_,46,0476a20"/> 切佛 </seg>
-    <lb n="177-03,1579,002,005,05"/> 法。靡所不該。欲開發行者。起深信樂。歸 <milestone unit="wlb"/> 宗有在。是中悉未論修行入證之相 <lb
-     n="177-03,1579,002,005,06"/>
+      unit="wlb"/> 是商略禪波羅蜜。攝一 <anchor corresp="T1916_,46,0476a20"/> 切佛 <lb
+      n="177-03,1579,002,005,05"/> 法。靡所不該。欲開發行者。起深信樂。歸 <milestone unit="wlb"/> 宗有在。是中悉未論修行入證之相 </seg>
+    <lb n="177-03,1579,002,005,06"/>
     <anchor corresp="T1916_,46,0476a21"/> 今明菩薩修禪波羅蜜。所爲有二。一者簡非。 <anchor corresp="T1916_,46,0476a22"/>
     二者正 <lb n="177-03,1579,002,005,07"/> 明所爲。第一簡非者。有十種行人。發 <anchor corresp="T1916_,46,0476a23"/>
     心修禪不同。多 <lb n="177-03,1579,002,005,08"/> 墮在邪僻。不入禪波羅蜜法 <anchor corresp="T1916_,46,0476a24"/>
@@ -632,14 +632,15 @@
      facs="https://d1av1vcgsldque.cloudfront.net/files/original/1564 釋禪波羅蜜次第法門10卷/image022.jpg"/>
     <lb/>
     <seg type="wari">
-     <milestone unit="wlb"/> 中書科中書舍人常熟嚴澂施貲刻此 </seg>
-    <lb n="177-03,1579,002,019,12"/> 釋禪波羅蜜次第法門卷第一之上 <space quantity="1"/>
-    <gap quantity="2" reason="印刷不良（カスレ）"/> 沙 <gap quantity="1" reason="印刷不良（カスレ）"/>
-    <milestone unit="wlb"/> 𨕥梅對 <space quantity="1"/>
-    <gap quantity="1" reason="印刷不良（カスレ）"/> 州王國英書 <space quantity="1"/> 進賢 <gap quantity="4"
-     reason="印刷不良（カスレ）"/>
-    <lb n="177-03,1579,002,019,13"/> 萬暦 <gap quantity="3" reason="印刷不良（カスレ）"/> 淸涼山妙徳庵識 <milestone
-     unit="wlb"/>
+     <milestone unit="wlb"/> 中書科中書舍人常熟嚴澂施貲刻此 <lb n="177-03,1579,002,019,12"/> 釋禪波羅蜜次第法門卷第一之上 <space
+      quantity="1"/>
+     <gap quantity="2" reason="印刷不良（カスレ）"/> 沙 <gap quantity="1" reason="印刷不良（カスレ）"/>
+     <milestone unit="wlb"/> 𨕥梅對 <space quantity="1"/>
+     <gap quantity="1" reason="印刷不良（カスレ）"/> 州王國英書 <space quantity="1"/> 進賢 <gap quantity="4"
+      reason="印刷不良（カスレ）"/>
+     <lb n="177-03,1579,002,019,13"/> 萬暦 <gap quantity="3" reason="印刷不良（カスレ）"/> 淸涼山妙徳庵識 <milestone
+      unit="wlb"/>
+    </seg>
     <lb n="177-03,1579,003,001,01"/> 釋禪波羅蜜次第法門卷第一之下 <lb n="177-03,1579,003,001,02"/>
     <anchor corresp="T1916_,46,0480a11"/> 隋天台智者大師説 <lb n="177-03,1579,003,001,03"/>
     <anchor corresp="T1916_,46,0480a12"/> 弟子法愼記 <lb n="177-03,1579,003,001,04"/>
@@ -818,9 +819,9 @@
     名也。問曰。 <anchor corresp="T1916_,46,0481c13"/> 分別定慧爲四句可爾。戒復云何。答曰。從 <lb n="177-03,1579,003,007,07"
     /> 十 <anchor corresp="T1916_,46,0481c14"/> 善三歸五戒八齋戒沙彌十戒。大比丘二百五 <anchor
      corresp="T1916_,46,0481c15"/> 十 <lb n="177-03,1579,003,007,08"/> 戒菩薩十重四十八輕戒。亦得作四句分 <anchor
-     corresp="T1916_,46,0481c16"/> 別其義 <seg type="wari"> 云 </seg>
-    <lb n="177-03,1579,003,007,09"/> 云 <lb n="177-03,1579,003,007,10"/> 證中。皆先明有漏。次亦有 <anchor
-     corresp="T1916_,46,0481c18"/> 漏亦無漏。次無漏。次非有 <lb n="177-03,1579,003,007,11"/>
+     corresp="T1916_,46,0481c16"/> 別其義 <seg type="wari"> 云 <lb n="177-03,1579,003,007,09"/> 云 </seg>
+    。今不具釋。問曰。上第四明禪詮 <anchor corresp="T1916_,46,0481c17"/> 次。及下第七辨修 <lb n="177-03,1579,003,007,10"/>
+    證中。皆先明有漏。次亦有 <anchor corresp="T1916_,46,0481c18"/> 漏亦無漏。次無漏。次非有 <lb n="177-03,1579,003,007,11"/>
     <pb corresp="#p29"
      facs="https://d1av1vcgsldque.cloudfront.net/files/original/1564 釋禪波羅蜜次第法門10卷/image029.jpg"/>
     <lb/> 漏非無漏。今分別 <anchor corresp="T1916_,46,0481c19"/> 四句法。何故異於前後乃以三爲 <lb
@@ -1063,24 +1064,24 @@
       unit="wlb"/> 痩也 </seg>
     <lb n="177-03,1579,003,014,18"/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴澂施貲刻此 </seg>
-    <lb n="177-03,1579,003,014,19"/> 釋禪波羅蜜次第法門卷第一之下 <space quantity="1"/> 嘉興沙彌 <milestone unit="wlb"
-    /> 𨕥梅對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 建陽鄒友刻 <lb n="177-03,1579,003,014,20"
-    /> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴澂施貲刻此 <lb n="177-03,1579,003,014,19"/> 釋禪波羅蜜次第法門卷第一之下 <space
+      quantity="1"/> 嘉興沙彌 <milestone unit="wlb"/> 𨕥梅對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 建陽鄒友刻 <lb n="177-03,1579,003,014,20"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-03,1579,004,001,01"/> 釋禪波羅蜜次第法門卷第二 <lb n="177-03,1579,004,001,02"/>
     <anchor corresp="T1916_,46,0483c18"/> 隋天台智者大師説 <lb n="177-03,1579,004,001,03"/>
     <anchor corresp="T1916_,46,0483c19"/> 弟子法愼記 <lb n="177-03,1579,004,001,04"/>
     <anchor corresp="T1916_,46,0483c20"/> 弟子灌頂再治 <lb n="177-03,1579,004,001,05"/>
     <anchor corresp="T1916_,46,0483c21"/> 分別禪波羅蜜前方便第六之一 <seg type="wari"> 釋此一段有三卷。 <milestone
-      unit="wlb"/> 今之一卷 <anchor corresp="T1916_,46,0483c22"/> 正釋外 </seg>
-    <lb n="177-03,1579,004,001,06"/> 方便。是中明調伏欲界 <app type="異体字">
-     <lem wit="#酉"> 麤 </lem>
-     <rdg wit="#大正"> 麁 </rdg>
-    </app> 心中。淺近方便尋者。想不 <milestone unit="wlb"/> 便疑一向渉事淺近説易行難。豈得即論理諸深方 <lb n="177-03,1579,004,001,07"
-    /> 便 <anchor corresp="T1916_,46,0483c23"/> 也。至下釋第七大段修證中有十二卷。乃當隨禪 <milestone unit="wlb"/>
-    事理深淺約證位之前。節節明行行慧行二種善巧 <lb n="177-03,1579,004,001,08"/> 用心之相。此 <anchor
-     corresp="T1916_,46,0483c24"/> 文並未 <milestone unit="wlb"/> 流傳故記以知之 <lb
-     n="177-03,1579,004,001,09"/>
+      unit="wlb"/> 今之一卷 <anchor corresp="T1916_,46,0483c22"/> 正釋外 <lb n="177-03,1579,004,001,06"/>
+     方便。是中明調伏欲界 <app type="異体字">
+      <lem wit="#酉"> 麤 </lem>
+      <rdg wit="#大正"> 麁 </rdg>
+     </app> 心中。淺近方便尋者。想不 <milestone unit="wlb"/> 便疑一向渉事淺近説易行難。豈得即論理諸深方 <lb
+      n="177-03,1579,004,001,07"/> 便 <anchor corresp="T1916_,46,0483c23"/> 也。至下釋第七大段修證中有十二卷。乃當隨禪
+      <milestone unit="wlb"/> 事理深淺約證位之前。節節明行行慧行二種善巧 <lb n="177-03,1579,004,001,08"/> 用心之相。此 <anchor
+      corresp="T1916_,46,0483c24"/> 文並未 <milestone unit="wlb"/> 流傳故記以知之 </seg>
+    <lb n="177-03,1579,004,001,09"/>
     <anchor corresp="T1916_,46,0483c25"/> 行人若能通達。如前所辯五種。明諸禪相。則 <anchor corresp="T1916_,46,0483c26"/>
     内信開 <lb n="177-03,1579,004,001,10"/> 發。若欲安心習學。必須善知方便。今 <anchor corresp="T1916_,46,0483c27"/>
     明修禪方便。大 <lb n="177-03,1579,004,001,11"/>
@@ -2132,8 +2133,9 @@
     <lb n="177-03,1579,004,029,07"/> 音釋 <lb n="177-03,1579,004,029,08"/> 羯磨 <seg type="wari"> 梵語也此云作
       <milestone unit="wlb"/> 法羯居謁切 </seg> 浣 <seg type="wari"> 胡管切濯 <milestone unit="wlb"/> 衣垢也
     </seg> 膩 <seg type="wari"> 女利切 <milestone unit="wlb"/> 肥膩也 </seg> 莢 <seg type="wari"> 古
-      <milestone unit="wlb"/> 恊 </seg>
-    <lb n="177-03,1579,004,029,09"/> 切 <milestone unit="wlb"/>
+      <milestone unit="wlb"/> 恊 <lb n="177-03,1579,004,029,09"/> 切 <milestone unit="wlb"/>
+    </seg> 維摩羅詰 <seg type="wari"> 梵語也此云淨 <milestone unit="wlb"/> 名詰𢍆吉切 </seg> 憒 <seg type="wari">
+     古對切 <milestone unit="wlb"/> 心亂也 </seg> 笇 <seg type="wari"> 蘇貫切 <milestone unit="wlb"/> 與筭同 </seg>
     <lb n="177-03,1579,004,029,10"/> 縹 <seg type="wari"> 普沼切帛 <milestone unit="wlb"/> 靑白色也 </seg> 餚饍
      <seg type="wari"> 餚何交切饍時戰 <milestone unit="wlb"/> 切餚饍美食也 </seg> 劇 <seg type="wari"> 竭戟切
       <milestone unit="wlb"/> 甚也 </seg> 齧 <lb n="177-03,1579,004,029,11"/>
@@ -2143,27 +2145,33 @@
     <seg type="wari"> 倪結切 <milestone unit="wlb"/> 噬也 </seg> 惛 <seg type="wari"> 呼昆切心 <milestone
       unit="wlb"/> 不明也 </seg> 差 <seg type="wari"> 楚懈切 <milestone unit="wlb"/> 與瘥同 </seg> 輭 <seg
      type="wari"> 乳兗切 <milestone unit="wlb"/> 柔也 </seg> 哢 <seg type="wari"> 盧貢 <milestone unit="wlb"
-     /> 切鳥 </seg>
-    <lb n="177-03,1579,004,029,12"/> 吟 <milestone unit="wlb"/> 聲 <lb n="177-03,1579,004,029,13"/> 根肉
-     <milestone unit="wlb"/> 也 <lb n="177-03,1579,004,029,14"/> 不靜 <milestone unit="wlb"/> 也 <lb
-     n="177-03,1579,004,029,16"/>
+     /> 切鳥 <lb n="177-03,1579,004,029,12"/> 吟 <milestone unit="wlb"/> 聲 </seg> 怳 <seg type="wari">
+     詡往切 <milestone unit="wlb"/> 怳惚也 </seg> 獷 <seg type="wari"> 古猛切 <milestone unit="wlb"/> 惡也
+    </seg> 䏶 <seg type="wari"> 部禮切 <milestone unit="wlb"/> 股也 </seg> 䟤 <seg type="wari"> 蒲蔑
+      <milestone unit="wlb"/> 切 </seg> 齶 <seg type="wari"> 逆各 <milestone unit="wlb"/> 切齒 <lb
+      n="177-03,1579,004,029,13"/> 根肉 <milestone unit="wlb"/> 也 </seg> 喘 <seg type="wari"> 尺兗切
+      <milestone unit="wlb"/> 疾息也 </seg> 萎虵 <seg type="wari"> 萎正作委邕危切虵 <milestone unit="wlb"/>
+     余支切萎虵委曲貌 </seg> 躁 <seg type="wari"> 則到 <milestone unit="wlb"/> 切心 <lb
+      n="177-03,1579,004,029,14"/> 不靜 <milestone unit="wlb"/> 也 </seg> 抖擻 <seg type="wari"> 抖當口切擻思口
+      <milestone unit="wlb"/> 切抖擻振擧之貌 </seg>
+    <lb n="177-03,1579,004,029,16"/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴澂施貲刻此 </seg>
-    <lb n="177-03,1579,004,029,17"/> 釋禪波羅蜜次第法門第二卷 <space quantity="1"/> 嘉興沙彌𨕥梅 <milestone
-     unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 溧水毛有光刻 <lb
-     n="177-03,1579,004,029,18"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴澂施貲刻此 <lb n="177-03,1579,004,029,17"/> 釋禪波羅蜜次第法門第二卷 <space
+      quantity="1"/> 嘉興沙彌𨕥梅 <milestone unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 溧水毛有光刻 <lb n="177-03,1579,004,029,18"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-03,1579,005,001,01"/> 釋禪波羅蜜次第法門卷第三之上 <lb n="177-03,1579,005,001,02"/>
     <anchor corresp="T1916_,46,0491b24"/> 隋天台智者大師説 <lb n="177-03,1579,005,001,03"/>
     <anchor corresp="T1916_,46,0491b25"/> 弟子法愼記 <lb n="177-03,1579,005,001,04"/>
     <anchor corresp="T1916_,46,0491b26"/> 弟子灌頂再治 <lb n="177-03,1579,005,001,05"/>
     <anchor corresp="T1916_,46,0491b27"/> 分別禪波羅蜜前方便第六之二 <seg type="wari"> 從此有兩卷。並明内方便。 <milestone
       unit="wlb"/>
-     <anchor corresp="T1916_,46,0491b28"/> 今之一卷 </seg>
-    <lb n="177-03,1579,005,001,06"/> 正釋因。止發内外善根。是中明事理諸禪。三昧善根 <milestone unit="wlb"/>
-    發通約初禪。初境界罔像而辨止。表行人習因根 <anchor corresp="T1916_,46,0491b29"/> 性 <lb n="177-03,1579,005,001,07"/>
-    不同。故於初證之時。發禪有異。若論初禪已後。發事 <milestone unit="wlb"/> 理諸禪三明深妙境界。並在第七。大段修證中廣明 <lb
-     n="177-03,1579,005,001,08"/> 此文。 <anchor corresp="T1916_,46,0491c01"/> 悉未 <milestone unit="wlb"
-    /> 流通也 <lb n="177-03,1579,005,001,09"/>
+     <anchor corresp="T1916_,46,0491b28"/> 今之一卷 <lb n="177-03,1579,005,001,06"/>
+     正釋因。止發内外善根。是中明事理諸禪。三昧善根 <milestone unit="wlb"/> 發通約初禪。初境界罔像而辨止。表行人習因根 <anchor
+      corresp="T1916_,46,0491b29"/> 性 <lb n="177-03,1579,005,001,07"/> 不同。故於初證之時。發禪有異。若論初禪已後。發事
+      <milestone unit="wlb"/> 理諸禪三明深妙境界。並在第七。大段修證中廣明 <lb n="177-03,1579,005,001,08"/> 此文。 <anchor
+      corresp="T1916_,46,0491c01"/> 悉未 <milestone unit="wlb"/> 流通也 </seg>
+    <lb n="177-03,1579,005,001,09"/>
     <anchor corresp="T1916_,46,0491c02"/> 第二明修禪波羅蜜内方便。開爲五重。一先 <anchor corresp="T1916_,46,0491c03"/>
     明止門。 <lb n="177-03,1579,005,001,10"/> 二明驗善惡根性。三明安心法。四明 <anchor corresp="T1916_,46,0491c04"/>
     治病患。五明覺 <lb n="177-03,1579,005,001,11"/>
@@ -2797,23 +2805,23 @@
       <rdg wit="#大正"> 原本卷末註曰沈北藏作況 </rdg>
      </app>
     </seg> 第五紙 <seg type="wari"> 二十 <milestone unit="wlb"/> 行 <app>
-      <lem wit="#酉"> 如 </lem>
+      <lem wit="#酉"> 如 <lb n="177-03,1579,005,020,01"/> 北藏 <milestone unit="wlb"/> 作是 </lem>
+      <rdg wit="#大正"> 原本卷末註曰如北藏作是 </rdg>
      </app>
     </seg>
-    <lb n="177-03,1579,005,020,01"/> 北藏 <milestone unit="wlb"/> 作是 <lb n="177-03,1579,005,020,02"/>
-    音釋 <lb n="177-03,1579,005,020,03"/> 肋 <seg type="wari"> 歴徳切 <milestone unit="wlb"/> 脅幹也 </seg>
-    跳躑 <seg type="wari"> 跳他弔切 <milestone unit="wlb"/> 躑直隻切 </seg> 漬 <seg type="wari"> 疾智切 <milestone
-      unit="wlb"/> 浸也 </seg> 慳 <seg type="wari"> 丘閑切 <milestone unit="wlb"/> 悋也 </seg> 恡 <lb
-     n="177-03,1579,005,020,04"/>
+    <lb n="177-03,1579,005,020,02"/> 音釋 <lb n="177-03,1579,005,020,03"/> 肋 <seg type="wari"> 歴徳切
+      <milestone unit="wlb"/> 脅幹也 </seg> 跳躑 <seg type="wari"> 跳他弔切 <milestone unit="wlb"/> 躑直隻切
+    </seg> 漬 <seg type="wari"> 疾智切 <milestone unit="wlb"/> 浸也 </seg> 慳 <seg type="wari"> 丘閑切
+      <milestone unit="wlb"/> 悋也 </seg> 恡 <lb n="177-03,1579,005,020,04"/>
     <seg type="wari"> 良刃切 <milestone unit="wlb"/> 鄙恡也 </seg> 穀 <seg type="wari"> 胡谷切 <milestone
       unit="wlb"/> 縐紗也 </seg> 胮脹 <seg type="wari"> 胮匹絳切 <milestone unit="wlb"/> 脹知亮切 </seg> 瘀 <seg
      type="wari"> 依據切氣 <milestone unit="wlb"/> 血壅也 </seg>
     <lb n="177-03,1579,005,020,06"/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴濟施貲刻此 </seg>
-    <lb n="177-03,1579,005,020,07"/> 釋禪波羅蜜次第法門卷第三之上 <space quantity="1"/> 嘉興沙彌 <milestone unit="wlb"
-    /> 道梅對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 進賢呉國泰刻 <lb n="177-03,1579,005,020,08"
-    /> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴濟施貲刻此 <lb n="177-03,1579,005,020,07"/> 釋禪波羅蜜次第法門卷第三之上 <space
+      quantity="1"/> 嘉興沙彌 <milestone unit="wlb"/> 道梅對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 進賢呉國泰刻 <lb n="177-03,1579,005,020,08"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-04,1579,006,001,01"/> 釋禪波羅蜜次第法門卷第三之下 <lb n="177-04,1579,006,001,02"/>
     <anchor corresp="T1916_,46,0496c08"/> 隋天台智者大師説 <lb n="177-04,1579,006,001,03"/>
     <anchor corresp="T1916_,46,0496c09"/> 弟子法愼記 <lb n="177-04,1579,006,001,04"/>
@@ -3252,8 +3260,9 @@
       unit="wlb"/> 與硬同 </seg>
     <lb n="177-04,1579,006,016,19"/>
     <seg type="wari"> 常熟嚴濟施貲刻此 <space quantity="1"/> 釋禪波羅蜜次第法門卷 <milestone unit="wlb"/> 第三之下 <space
-      quantity="1"/> 嘉興沙彌道梅對 <space quantity="1"/> 眞州王國英書 </seg>
-    <lb n="177-04,1579,006,016,20"/> 進賢洪以忠刻 <space quantity="1"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+      quantity="1"/> 嘉興沙彌道梅對 <space quantity="1"/> 眞州王國英書 <lb n="177-04,1579,006,016,20"/> 進賢洪以忠刻
+      <space quantity="1"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-04,1579,007,001,01"/> 釋禪波羅蜜次第法門卷第四 <lb n="177-04,1579,007,001,02"/>
     <anchor corresp="T1916_,46,0501a06"/> 隋天台智者大師説 <lb n="177-04,1579,007,001,03"/>
     <anchor corresp="T1916_,46,0501a07"/> 弟子法愼記 <lb n="177-04,1579,007,001,04"/>
@@ -4061,8 +4070,11 @@
     <anchor corresp="T1916_,46,0508a12"/> 釋禪波羅蜜次第法門卷第四 <lb n="177-04,1579,007,027,03"/> 音釋 <lb
      n="177-04,1579,007,027,04"/> 孱 <seg type="wari"> 鉏山 <milestone unit="wlb"/> 切 </seg> 瞪矒 <seg
      type="wari"> 瞪澄應切矒母亘 <milestone unit="wlb"/> 切瞪矒不明也 </seg> 歘 <seg type="wari"> 許勿切 <milestone
-      unit="wlb"/> 猶忽也 </seg> 躃 <seg type="wari"> 毘益 <milestone unit="wlb"/> 切倒 </seg>
-    <lb n="177-04,1579,007,027,05"/> 也 <milestone unit="wlb"/>
+      unit="wlb"/> 猶忽也 </seg> 躃 <seg type="wari"> 毘益 <milestone unit="wlb"/> 切倒 <lb
+      n="177-04,1579,007,027,05"/> 也 <milestone unit="wlb"/>
+    </seg> 唼 <seg type="wari"> 作答切 <milestone unit="wlb"/> 齧也 </seg> 瘠 <seg type="wari"> 秦益切
+      <milestone unit="wlb"/> 痩也 </seg> 痰癊 <seg type="wari"> 痰徒甘切病液也癊 <milestone unit="wlb"/>
+     於禁切心中病也 </seg>
     <lb n="177-04,1579,007,027,06"/> 脾 <seg type="wari"> 頻彌切 <milestone unit="wlb"/> 土藏也 </seg> 㿇
      <seg type="wari"> 先入切 <milestone unit="wlb"/> 㿇㿇也 </seg> 嘈 <seg type="wari"> 財勞切 <milestone
       unit="wlb"/> 聲也 </seg> 𥆨 <seg type="wari"> 呼光切目 <milestone unit="wlb"/> 不明也 </seg> 瞖 <lb
@@ -4074,8 +4086,9 @@
     <seg type="wari"> 丁候切 <milestone unit="wlb"/> 爭也 </seg>
     <lb n="177-04,1579,007,027,09"/>
     <seg type="wari"> 常熟嚴濟施貲刻此 <space quantity="1"/> 釋禪波羅蜜次第法門第 <milestone unit="wlb"/> 四卷 <space
-      quantity="1"/> 嘉興沙彌道梅對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 進 </seg>
-    <lb n="177-04,1579,007,027,10"/> 賢趙宗周刻 <space quantity="1"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+      quantity="1"/> 嘉興沙彌道梅對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 進 <lb
+      n="177-04,1579,007,027,10"/> 賢趙宗周刻 <space quantity="1"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-04,1579,008,001,01"/>
     <pb corresp="#p127"
      facs="https://d1av1vcgsldque.cloudfront.net/files/original/1564 釋禪波羅蜜次第法門10卷/image127.jpg"/>
@@ -5116,9 +5129,11 @@
      n="177-04,1579,008,031,08"/> 㲲 <seg type="wari"> 達恊切細 <milestone unit="wlb"/> 毛布也 </seg> 拭 <seg
      type="wari"> 設職切 <milestone unit="wlb"/> 揩也 </seg> 翳 <seg type="wari"> 壹計切 <milestone
       unit="wlb"/> 鄣也 </seg> 澀 <seg type="wari"> 色入 <milestone unit="wlb"/> 切 </seg> 掉 <seg
-     type="wari"> 徒弔 <milestone unit="wlb"/> 切搖 </seg>
-    <lb n="177-04,1579,008,031,09"/> 也 <milestone unit="wlb"/>
-    <lb n="177-04,1579,008,031,10"/>
+     type="wari"> 徒弔 <milestone unit="wlb"/> 切搖 <lb n="177-04,1579,008,031,09"/> 也 <milestone
+      unit="wlb"/>
+    </seg> 猗 <seg type="wari"> 於宜切 <milestone unit="wlb"/> 輕安也 </seg> 蔑屑 <seg type="wari"> 蔑莫結切屑先結
+      <milestone unit="wlb"/> 切蔑屑輕易也 </seg> 簣 <seg type="wari"> 求位切 <milestone unit="wlb"/> 土籠也
+    </seg> 戀 <lb n="177-04,1579,008,031,10"/>
     <seg type="wari"> 龍眷切 <milestone unit="wlb"/> 眷也 </seg> 攬 <seg type="wari"> 魯敢切 <milestone
       unit="wlb"/> 手取也 </seg>
     <lb n="177-04,1579,008,031,11"/>
@@ -5126,10 +5141,10 @@
      facs="https://d1av1vcgsldque.cloudfront.net/files/original/1564 釋禪波羅蜜次第法門10卷/image158.jpg"/>
     <lb/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴澍施貲刻此 </seg>
-    <lb n="177-04,1579,008,031,12"/> 釋禪波羅蜜次第法門第五卷 <space quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"
-    /> 對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 溧水毛有倫刻 <lb n="177-04,1579,008,031,13"/>
-    萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴澍施貲刻此 <lb n="177-04,1579,008,031,12"/> 釋禪波羅蜜次第法門第五卷 <space
+      quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 溧水毛有倫刻 <lb n="177-04,1579,008,031,13"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-04,1579,009,001,01"/> 釋禪波羅蜜次第法門卷第六 <lb n="177-04,1579,009,001,02"/>
     <anchor corresp="T1916_,46,0516b13"/> 隋天台智者大師説 <lb n="177-04,1579,009,001,03"/>
     <anchor corresp="T1916_,46,0516b14"/> 弟子法愼記 <lb n="177-04,1579,009,001,04"/>
@@ -5931,13 +5946,14 @@
     <lb/> 尠 <seg type="wari"> 息 <gap quantity="1" reason="印刷不良（欠損）"/> 切 <milestone unit="wlb"/> 少也
     </seg> 鈍 <seg type="wari"> 徒因切 <milestone unit="wlb"/> 不利也 </seg> 滓 <seg type="wari"> 壯士切
       <milestone unit="wlb"/> 澱也 </seg> 鏁 <seg type="wari"> 蘇果切 <milestone unit="wlb"/> 與鎖同 </seg> 簁
-     <seg type="wari"> 霜夷 <milestone unit="wlb"/> 切竹 </seg>
-    <lb n="177-04,1579,009,029,12"/> 器 <milestone unit="wlb"/> 也 <lb n="177-04,1579,009,029,14"/>
+     <seg type="wari"> 霜夷 <milestone unit="wlb"/> 切竹 <lb n="177-04,1579,009,029,12"/> 器 <milestone
+      unit="wlb"/> 也 </seg> 癰 <seg type="wari"> 於容切 <milestone unit="wlb"/> 癰癤也 </seg>
+    <lb n="177-04,1579,009,029,14"/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴澍施貲刻此 </seg>
-    <lb n="177-04,1579,009,029,15"/> 釋禪波羅蜜次第法門卷第六 <space quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"
-    /> 對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 會稽謝墀刻 <lb n="177-04,1579,009,029,16"/>
-    萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴澍施貲刻此 <lb n="177-04,1579,009,029,15"/> 釋禪波羅蜜次第法門卷第六 <space
+      quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 會稽謝墀刻 <lb n="177-04,1579,009,029,16"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-05,1579,010,001,01"/> 釋禪波羅蜜次第法門卷第七 <lb n="177-05,1579,010,001,02"/>
     <anchor corresp="T1916_,46,0524a19"/> 隋天台智者大師説 <lb n="177-05,1579,010,001,03"/>
     <anchor corresp="T1916_,46,0524a20"/> 弟子法愼記 <lb n="177-05,1579,010,001,04"/>
@@ -6595,13 +6611,13 @@
     <lb n="177-05,1579,010,018,14"/> 音釋 <lb n="177-05,1579,010,018,15"/> 析 <seg type="wari"> 先的切
       <milestone unit="wlb"/> 分也 </seg> 絺 <seg type="wari"> 抽遲 <milestone unit="wlb"/> 切 </seg> 脆
      <seg type="wari"> 此芮切物 <milestone unit="wlb"/> 易斷也 </seg> 恬澹 <seg type="wari"> 恬徒兼切澹 <milestone
-      unit="wlb"/> 徒覽切恬澹 </seg>
-    <lb n="177-05,1579,010,018,16"/> 安靜 <milestone unit="wlb"/> 也 <lb n="177-05,1579,010,018,18"/>
+      unit="wlb"/> 徒覽切恬澹 <lb n="177-05,1579,010,018,16"/> 安靜 <milestone unit="wlb"/> 也 </seg>
+    <lb n="177-05,1579,010,018,18"/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴澍施貲刻此 </seg>
-    <lb n="177-05,1579,010,018,19"/> 釋禪波羅蜜次第法門第七卷 <space quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"
-    /> 對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 上元陶夢傑刻 <lb n="177-05,1579,010,018,20"/>
-    萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴澍施貲刻此 <lb n="177-05,1579,010,018,19"/> 釋禪波羅蜜次第法門第七卷 <space
+      quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 上元陶夢傑刻 <lb n="177-05,1579,010,018,20"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-05,1579,011,001,01"/> 釋禪波羅蜜次第法門卷第八 <lb n="177-05,1579,011,001,02"/>
     <anchor corresp="T1916_,46,0529a04"/> 隋天台智者大師説 <lb n="177-05,1579,011,001,03"/>
     <anchor corresp="T1916_,46,0529a05"/> 弟子法愼記 <lb n="177-05,1579,011,001,04"/>
@@ -7330,13 +7346,15 @@
     <lb n="177-05,1579,011,024,15"/> 音釋 <lb n="177-05,1579,011,024,16"/> 裡 <seg type="wari"> 正作裏
       <milestone unit="wlb"/> 良士切 </seg> 閡 <seg type="wari"> 牛代切 <milestone unit="wlb"/> 與礙同 </seg>
     𦙽膜 <seg type="wari"> 𦙽蘇干切脂肪也 <milestone unit="wlb"/> 膜末各切胲肪也 </seg> 篋 <seg type="wari"> 詰
-      <milestone unit="wlb"/> 叶 </seg>
-    <lb n="177-05,1579,011,024,17"/> 切箱 <milestone unit="wlb"/> 屬 <lb n="177-05,1579,011,024,18"/>
+      <milestone unit="wlb"/> 叶 <lb n="177-05,1579,011,024,17"/> 切箱 <milestone unit="wlb"/> 屬 </seg>
+    塚 <seg type="wari"> 主隴切 <milestone unit="wlb"/> 墳也 </seg> 膀胱 <seg type="wari"> 膀蒲光切胱姑黄
+      <milestone unit="wlb"/> 切膀胱水府也 </seg> 療 <seg type="wari"> 力照切 <milestone unit="wlb"/> 治也 </seg>
+    <lb n="177-05,1579,011,024,18"/>
     <seg type="wari">
-     <milestone unit="wlb"/> 常熟嚴澤施貲刻此 </seg>
-    <lb n="177-05,1579,011,024,19"/> 釋禪波羅蜜次第法門第八卷 <space quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"
-    /> 對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 龍游徐文忠刻 <lb n="177-05,1579,011,024,20"/>
-    萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <milestone unit="wlb"/> 常熟嚴澤施貲刻此 <lb n="177-05,1579,011,024,19"/> 釋禪波羅蜜次第法門第八卷 <space
+      quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 龍游徐文忠刻 <lb n="177-05,1579,011,024,20"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-05,1579,012,001,01"/> 釋禪波羅蜜次第法門卷第九 <lb n="177-05,1579,012,001,02"/>
     <anchor corresp="T1916_,46,0535b10"/> 隋天台智者大師説 <lb n="177-05,1579,012,001,03"/>
     <anchor corresp="T1916_,46,0535b11"/> 弟子法愼記 <lb n="177-05,1579,012,001,04"/>
@@ -7968,17 +7986,19 @@
     <lb n="177-05,1579,012,020,08"/> 音釋 <lb n="177-05,1579,012,020,09"/> 腥臊 <seg type="wari"> 腥先靑切
       <milestone unit="wlb"/> 臊蘇刀切 </seg> 𪒠 <seg type="wari"> 於敢切 <milestone unit="wlb"/> 黑也 </seg>
     爴 <seg type="wari"> 厥縛切與攫 <milestone unit="wlb"/> 同爪持也 </seg> 駁 <seg type="wari"> 北角 <milestone
-      unit="wlb"/> 切解 </seg>
-    <lb n="177-05,1579,012,020,10"/> 駁 <milestone unit="wlb"/> 也 <lb n="177-05,1579,012,020,12"/>
+      unit="wlb"/> 切解 <lb n="177-05,1579,012,020,10"/> 駁 <milestone unit="wlb"/> 也 </seg> 髑髏 <seg
+     type="wari"> 髑徒木切髏盧侯 <milestone unit="wlb"/> 切髑髏頂骨也 </seg> 麋 <seg type="wari"> 正作糜忙 <milestone
+      unit="wlb"/> 皮切粥也 </seg>
+    <lb n="177-05,1579,012,020,12"/>
     <pb corresp="#p249"
      facs="https://d1av1vcgsldque.cloudfront.net/files/original/1564 釋禪波羅蜜次第法門10卷/image249.jpg"/>
     <lb/>
     <seg type="wari">
      <milestone unit="wlb"/>
-     <gap quantity="1" reason="料紙破損"/> 熟嚴澤施貲刻此 </seg>
-    <lb n="177-05,1579,012,020,13"/> 釋禪波羅蜜次第法門卷第九 <space quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"
-    /> 對 <space quantity="1"/> 眞州王國英書 <space quantity="1"/> 溧水毛詩賦刻 <lb n="177-05,1579,012,020,14"/>
-    萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+     <gap quantity="1" reason="料紙破損"/> 熟嚴澤施貲刻此 <lb n="177-05,1579,012,020,13"/> 釋禪波羅蜜次第法門卷第九 <space
+      quantity="1"/> 嘉興沙彌道梅 <milestone unit="wlb"/> 對 <space quantity="1"/> 眞州王國英書 <space
+      quantity="1"/> 溧水毛詩賦刻 <lb n="177-05,1579,012,020,14"/> 萬暦庚寅冬淸涼山妙徳庵識 <milestone unit="wlb"/>
+    </seg>
     <lb n="177-05,1579,013,001,01"/> 釋禪波羅蜜次第法門卷第十 <lb n="177-05,1579,013,001,02"/>
     <anchor corresp="T1916_,46,0540c04"/> 隋天台智者大師説 <lb n="177-05,1579,013,001,03"/>
     <anchor corresp="T1916_,46,0540c05"/> 弟子法愼記 <lb n="177-05,1579,013,001,04"/>
@@ -8942,14 +8962,22 @@
       <rdg wit="#大正"> 原本卷末註曰地色北藏作色地 </rdg>
      </app>
     </seg> 第二十一紙 <seg type="wari"> 四行 <app>
-      <lem wit="#酉"> 知己 <milestone unit="wlb"/> 北藏作己 </lem>
+      <lem wit="#酉"> 知己 <milestone unit="wlb"/> 北藏作己 <lb n="177-05,1579,013,030,18"/> 知 </lem>
+      <rdg wit="#大正"> 原本卷末註曰知己北藏作己知 </rdg>
+     </app> 十二行 <app>
+      <lem wit="#酉"> 未籌下南藏有量字 </lem>
+      <rdg wit="#大正"> 原本卷末註曰未壽下南藏有量字 </rdg>
+     </app>
+     <milestone unit="wlb"/> 十九行 <app>
+      <lem wit="#酉"> 不受下南藏無用字 </lem>
+      <rdg wit="#大正"> 原本卷末註曰不受下南藏無用字 </rdg>
      </app>
     </seg>
-    <lb n="177-05,1579,013,030,18"/> 知 <lb n="177-05,1579,013,030,19"/> 音切 <space quantity="1"/> 𨄔
-     <seg type="wari"> 時兗 <milestone unit="wlb"/> 切 </seg> 臗 <seg type="wari"> 苦官 <milestone
-      unit="wlb"/> 切 </seg> 胛 <seg type="wari"> 古狎 <milestone unit="wlb"/> 切 </seg> 㘈 <seg
-     type="wari"> 宜謹 <milestone unit="wlb"/> 切 </seg> 煜焴 <seg type="wari"> 並余 <milestone unit="wlb"
-     /> 六切 </seg> 趠 <lb n="177-05,1579,013,030,20"/>
+    <lb n="177-05,1579,013,030,19"/> 音切 <space quantity="1"/> 𨄔 <seg type="wari"> 時兗 <milestone
+      unit="wlb"/> 切 </seg> 臗 <seg type="wari"> 苦官 <milestone unit="wlb"/> 切 </seg> 胛 <seg
+     type="wari"> 古狎 <milestone unit="wlb"/> 切 </seg> 㘈 <seg type="wari"> 宜謹 <milestone unit="wlb"/>
+     切 </seg> 煜焴 <seg type="wari"> 並余 <milestone unit="wlb"/> 六切 </seg> 趠 <lb
+     n="177-05,1579,013,030,20"/>
     <seg type="wari"> 丑孝 <milestone unit="wlb"/> 切 </seg>
     <space quantity="1"/>
     <seg type="wari"> 常熟嚴澤施貲刻此 <space quantity="1"/> 釋禪波羅蜜次第法門第十卷 <space quantity="1"/> 嘉興沙彌道梅
