@@ -326,7 +326,11 @@ export default {
       const pbs = $(data).find('tei-pb')
       for (let i = 0; i < pbs.length; i++) {
         const pb = pbs[i]
-        const label = $(pb).attr('corresp').replace('#', '')
+        const corresp = $(pb).attr('corresp')
+        if (!corresp) {
+          continue
+        }
+        const label = corresp.replace('#', '')
         items.push({
           label,
           id: label,

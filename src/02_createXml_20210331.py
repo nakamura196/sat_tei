@@ -57,8 +57,6 @@ prev_canvas_id = -1
 prev_page_id = -1
 count = 1
 
-texts = []
-
 for i in range(1, r_count):
 
     id = df.iloc[i, 7].split("\"")[1]
@@ -90,9 +88,7 @@ for i in range(1, r_count):
 
     new_tag = soup.new_tag('lb')
     new_tag["n"] = id
-    # body.append(new_tag)
-
-    texts.append(str(new_tag))
+    body.append(new_tag)
 
     #####
     
@@ -101,14 +97,10 @@ for i in range(1, r_count):
         new_tag = soup.new_tag('pb')
         new_tag["corresp"] = "#p{}".format(canvas_id )
         new_tag["facs"] = images["p{}".format(canvas_id )]
-        # body.append(new_tag)
-
-        texts.append(str(new_tag))
+        body.append(new_tag)
 
         new_tag = soup.new_tag('lb')
-        # body.append(new_tag)
-
-        texts.append(str(new_tag))
+        body.append(new_tag)
 
         prev_canvas_id = canvas_id
 
@@ -123,19 +115,10 @@ for i in range(1, r_count):
     text = text.replace("<lem", "<lem wit=\"#酉\"")
     text = text.replace("<rdg", "<rdg wit=\"#大正\"")
 
-    '''
     text = "<aaa>{}".format(text)+"</aaa>"
 
     tag = bs4.BeautifulSoup(text, features="xml")
     body.append(tag.aaa)
-    '''
-
-    texts.append(text)
-
-text = "<div>{}".format("".join(texts))+"</div>"
-
-tag = bs4.BeautifulSoup(text, features="xml")
-body.append(tag.div)
 
 f = open("../static/data/sat.xml", "w")
 f.write(soup.prettify())

@@ -29,13 +29,12 @@
       v-else-if="element.name == 'tei-seg' && element.attributes.type == 'wari'"
     >
       <span style="color: #ff5722; font-size: small"
-        >[<aaa
+        ><aaa
           v-for="(e, index) in element.elements"
           :key="index"
           :element="e"
         ></aaa
-        >]</span
-      >
+      ></span>
     </template>
     <template
       v-else-if="
@@ -232,6 +231,12 @@ tei-app {
 }
 
 span {
-  display: inline-block;
+  /*display: inline-block;*/
+}
+
+tei-l {
+  display: inline;
+  width: 1.5em;
+  margin-top: 1.5em;
 }
 </style>
